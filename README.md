@@ -14,7 +14,7 @@ This folder exists of the following files:
 - johnson-v2.zip; A zipped version of the notebook (as it is quite large)
 - model.zip; The final model created for neural style transfer
 - graphs.zip; Graphs with various model outcomes (loss, norm of weights, mean gradient and variance of gradient)
-- johnson_v2_best.ipynb; The notebook which gave the highest score in the challenge (but we don't use these as our final submission).
+- johnson_v2_best.ipynb; The notebook which gave the highest score in the challenge (but we don't use this as our final submission).
 - johnson-v2_best.zip; A zipped version of the notebook (as it is quite large)
 
 
