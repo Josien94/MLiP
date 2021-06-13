@@ -22,5 +22,6 @@ This folder exists of the following files:
 [1]Johnson, Justin, e.a. ‘Perceptual Losses for Real-Time Style Transfer and Super-Resolution’. arXiv:1603.08155 [cs], maart 2016. arXiv.org, http://arxiv.org/abs/1603.08155.
 
 
-## Challenge 2
-TO BE ANNOUNCED!
+## Challenge 2: Coleridge Initiative - Show US the Data
+The second challenge can be found on Kaggle: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data.  
+This challenge includes the extraction of mention
