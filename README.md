@@ -24,4 +24,18 @@ This folder exists of the following files:
 
 ## Challenge 2: Coleridge Initiative - Show US the Data
 The second challenge can be found on Kaggle: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data.  
-This challenge includes the extraction of mention
+This challenge includes the recognition of public dataset in scientifc papers.
+
+The code and results of this challenge can be found in the corresponding folder: _Challenge2 - Coleridge Initiative - Show US the Data_.
+This folder exists of the following files:
+- Part I_Creating_Dataset.ipynb; A python notebook containing the source code for creating the dataset for training.
+- Part_IIa_BERT_Training.ipynb; A python notebook containing the source code for training the BERT model.
+- Part_IIb_SciBERT_Training.ipynb; A python notebook containing the source code for training the SciBERT model.
+- Part III_With_LiteralMatching_SciBERT.ipynb; A python notebook containing the source code for predicting labels on the test set using the SciBERT model with literal matching (and final submission)
+- Part III_Without_LiteralMatching_SciBERT.ipynb; A python notebook containing the source code for predicting labels on the test set using the SciBERT model without literal matching
+- Part III_With_LiteralMatching_BERT.ipynb; A python notebook containing the source code for predicting labels on the test set using the SciBERT model with literal matching
+- Part III_Without_LiteralMatching_BERT.ipynb; A python notebook containing the source code for predicting labels on the test set using the SciBERT model without literal matching
+- trianingResults.json; the trainnig loss and learning rate of the training process of both BERT and SciBERT
+- trainingProcess.py; A python script to create visualization for the training loss and learning rate of BERT and SciBERT.
+- Figures/ ; The outcomes of trainingProcess.py
+
